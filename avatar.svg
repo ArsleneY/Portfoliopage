@@ -1,0 +1,11 @@
+<!-- Save this as avatar.svg in the same directory as your HTML file -->
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="100" cy="100" r="90" fill="#e0e8e1" />
+    <path d="M70,110 C90,140 110,140 130,110" stroke="#333" stroke-width="3" fill="none" />
+    <path d="M80,80 C80,75 85,70 90,70" stroke="#333" stroke-width="3" fill="none" />
+    <path d="M120,80 C120,75 115,70 110,70" stroke="#333" stroke-width="3" fill="none" />
+    <circle cx="90" cy="80" r="2" fill="#333" />
+    <circle cx="110" cy="80" r="2" fill="#333" />
+    <path d="M80,50 C90,45 110,45 120,50" stroke="#333" stroke-width="3" fill="none" />
+    <path d="M70,60 C75,40 125,40 130,60" stroke="#333" stroke-width="2" fill="none" />
+</svg>
